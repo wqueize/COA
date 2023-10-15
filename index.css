@@ -29,9 +29,9 @@ font-family: 'Roboto', sans-serif;
 
 a {
   color: #000;
-  margin: 15px ;
-  
-
+  margin: 5px ;
+  margin-right: 280px;
+  padding: 150px;
 }
 
 /* header */
